@@ -3,7 +3,7 @@ package collection2;
 public class State {
 	private String name;
 	private String capital;
-	private String language;
+	private String language;  //fgddjhyh
 	private String code;
 	
 	public void setName(String name) {
